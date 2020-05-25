@@ -235,6 +235,7 @@ var good_da_host_exceptions_exact_flag = 39 > 0 ? true : false;  // test for non
 // 2050 rules:
 var bad_da_host_JSON = { "jobthread.com": null, 
 "srv.carbonads.net": null,          
+"ad.doubleclick.net": null,
 "content.ad": null,
 "webvisor.ru": null,
 "nastydollars.com": null,
