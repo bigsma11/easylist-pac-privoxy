@@ -235,6 +235,8 @@ var good_da_host_exceptions_exact_flag = 39 > 0 ? true : false;  // test for non
 // 2050 rules:
 var bad_da_host_JSON = { 
 "jobthread.com": null,
+"apps.apple.com/cn/app/%E7%B2%BE%E7%81%B5%E7%9B%9B%E5%85%B8-%E9%BB%8E%E6%98%8E-%E6%9A%97%E9%BB%91%E5%A4%8D%E4%BB%87%E8%80%85/id1466585545": null,
+"discord.gg/wXAfaCw": null,
 "carbonads.net": null,
 "carbonads": null,
 "srv.carbonads.net/ads/click/x", null,
