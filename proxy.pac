@@ -233,7 +233,11 @@ var good_da_host_exceptions_JSON = { "iad.apple.com": null,
 var good_da_host_exceptions_exact_flag = 39 > 0 ? true : false;  // test for non-zero number of rules
 
 // 2050 rules:
-var bad_da_host_JSON = { "jobthread.com": null, 
+var bad_da_host_JSON = { 
+"jobthread.com": null,
+"carbonads.net": null,
+"carbonads": null,
+"srv.carbonads.net/ads/click/x", null,
 "srv.carbonads.net": null,          
 "ad.doubleclick.net": null,
 "content.ad": null,
